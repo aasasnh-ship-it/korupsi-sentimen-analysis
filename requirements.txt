@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn>=1.4.0
+matplotlib
+seaborn
+plotly
+nltk
+wordcloud
+imbalanced-learn>=0.12.0 
